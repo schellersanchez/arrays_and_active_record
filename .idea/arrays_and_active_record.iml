@@ -11,6 +11,7 @@
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.2.6, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.3.6, RVM: ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.5, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.33, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffaker (v1.14.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v3.0.2, RVM: ruby-1.9.2-p290) [gem]" level="application" />
