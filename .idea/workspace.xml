@@ -4,12 +4,8 @@
     <list default="true" id="bd99b508-2a23-4593-95f4-358d27ffdffa" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/questions.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/arrays_and_active_record.iml" afterPath="$PROJECT_DIR$/.idea/arrays_and_active_record.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/questions.txt" afterPath="$PROJECT_DIR$/questions.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/active_record_test.rb" afterPath="$PROJECT_DIR$/tests/active_record_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/hash_test.rb" afterPath="$PROJECT_DIR$/tests/hash_test.rb" />
     </list>
     <ignored path="arrays_and_active_record.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="active_record_test.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/active_record_test.rb">
+      <file leaf-file-name="hash_test.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/hash_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="30" selection-start="4934" selection-end="4934" vertical-scroll-proportion="0.79704016">
+            <state line="79" column="61" selection-start="2352" selection-end="2352" vertical-scroll-proportion="0.7572017">
               <folding />
             </state>
           </provider>
@@ -58,6 +54,7 @@
         <option value="$PROJECT_DIR$/tests/array_test.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/tests/active_record_test.rb" />
+        <option value="$PROJECT_DIR$/tests/hash_test.rb" />
       </list>
     </option>
   </component>
@@ -297,7 +294,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/active_record_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="30" selection-start="4934" selection-end="4934" vertical-scroll-proportion="0.79704016">
+        <state line="149" column="7" selection-start="4692" selection-end="4692" vertical-scroll-proportion="0.4926004">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/hash_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="61" selection-start="2352" selection-end="2352" vertical-scroll-proportion="0.7572017">
           <folding />
         </state>
       </provider>
